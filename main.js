@@ -87,7 +87,7 @@ const cardGenerator=()=>{
           let opacity = document.querySelectorAll('.opacity');
          //  console.log(opacity.length);
           if(opacity.length==20){
-            alert('You won')
+            alert('You won🏆!!!')
          }
        });
       }, 500);
